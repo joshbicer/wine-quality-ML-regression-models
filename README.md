@@ -1,6 +1,6 @@
 # Wine Quality ML Regression Models
 
-A comparison of seven machine learning models including linear regression, poisson regression, negative binomial regression, zero-inflated poisson, zero-inflated binomial regression, and a hurdle model. All models use a public dataset based on expert wine ratings using a score between 0 - 10 and many different attributes around the wine's chemical and physical composition. The script is written using an R Markdown file and contains a detailed explanation of each section of the script.
+A comparison of seven machine learning models including linear regression, poisson regression, negative binomial regression, zero-inflated poisson, zero-inflated negative binomial, and a hurdle model. All models use a public dataset from UCI based on expert wine ratings using a score between 0 - 10 and many different attributes around the wine's chemical and physical composition. The script is written using an R Markdown file and contains a detailed explanation of each section of the script.
 
 
 ## Files
